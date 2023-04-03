@@ -1,0 +1,8 @@
+C:\Users\Dmitriy\source\repos\UDPserver\UDPserver\bin\Debug\UDPserver.exe.config
+C:\Users\Dmitriy\source\repos\UDPserver\UDPserver\bin\Debug\UDPserver.exe
+C:\Users\Dmitriy\source\repos\UDPserver\UDPserver\bin\Debug\UDPserver.pdb
+C:\Users\Dmitriy\source\repos\UDPserver\UDPserver\obj\Debug\UDPserver.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\UDPserver\UDPserver\obj\Debug\UDPserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dmitriy\source\repos\UDPserver\UDPserver\obj\Debug\UDPserver.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\UDPserver\UDPserver\obj\Debug\UDPserver.exe
+C:\Users\Dmitriy\source\repos\UDPserver\UDPserver\obj\Debug\UDPserver.pdb
